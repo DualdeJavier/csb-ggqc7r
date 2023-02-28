@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dualdejavier.github.io/csb-ggqc7r/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://dualdejavier.github.io/csb-ggqc7r/static/js/main.2b6c3a8a.chunk.js",
+    "main.js.map": "https://dualdejavier.github.io/csb-ggqc7r/static/js/main.2b6c3a8a.chunk.js.map",
+    "runtime-main.js": "https://dualdejavier.github.io/csb-ggqc7r/static/js/runtime-main.e5072fb0.js",
+    "runtime-main.js.map": "https://dualdejavier.github.io/csb-ggqc7r/static/js/runtime-main.e5072fb0.js.map",
+    "static/js/2.81daf36f.chunk.js": "https://dualdejavier.github.io/csb-ggqc7r/static/js/2.81daf36f.chunk.js",
+    "static/js/2.81daf36f.chunk.js.map": "https://dualdejavier.github.io/csb-ggqc7r/static/js/2.81daf36f.chunk.js.map",
+    "index.html": "https://dualdejavier.github.io/csb-ggqc7r/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://dualdejavier.github.io/csb-ggqc7r/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.81daf36f.chunk.js.LICENSE.txt": "https://dualdejavier.github.io/csb-ggqc7r/static/js/2.81daf36f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5072fb0.js",
+    "static/js/2.81daf36f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2b6c3a8a.chunk.js"
+  ]
+}
